@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0xMagn3t0
 - 👀 I’m interested in InfoSec, especially in Web/Mobile/API pentest.
 - 🌱 I’m currently learning different topics related to InfoSec!
-- 💞️ I’m looking to collaborate on red-teaming and CISSP, etc. stuff!
+- 💞️ I’m looking to collaborate on red-teaming and various infosec certs. etc. stuff!
 - 📫 How to reach me - Drop a message!
 
 <!---
