@@ -2,7 +2,7 @@
 - 👀 I’m interested in InfoSec, especially in Web/Mobile/API pentest.
 - 🌱 I’m currently learning different topics related to InfoSec!
 - 💞️ I’m looking to collaborate on red-teaming and various infosec certs. etc. stuff!
-- 📫 How to reach me - Drop a message!
+- 📫 How to reach me - DM on twitter!
 
 <!---
 0xMagn3t0/0xMagn3t0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
